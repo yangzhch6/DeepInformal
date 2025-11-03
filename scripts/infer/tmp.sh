@@ -1,0 +1,1 @@
+bash /mnt/weka/home/yongxin.wang/workspace/lark/DeepInformal/scripts/infer/Infer-Qwen3-8B-Openr1-46k.sh

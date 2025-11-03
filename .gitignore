@@ -1,0 +1,12 @@
+.cache
+checkpoints
+data/original
+data/synthetic_align
+data/train
+data/val
+outputs
+wandb
+original_rllm
+gen_deepseek/deeptheorem**
+gen_deepseek/putnam**
+gen_deepseek/eval-deepseek**
